@@ -1,0 +1,17 @@
+name: elo-rainbow
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - python
+  - pytorch
+  - torchvision
+  - cudatoolkit=11.3
+  - pip
+  - pip:
+    - numpy
+    - opencv-python
+    - atari-py
+    - tqdm
+    - plotly
+    - scipy
