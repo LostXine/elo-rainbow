@@ -1,6 +1,7 @@
 # ELo-Rainbow: Evolving Losses + Rainbow DQN
 
-This repository is the official implementation of ELo-Rainbow as a part of our [RL+SSL paper](https://openreview.net/forum?id=fVslVNBfjd8) at NeurIPS 2022. 
+This repository is the official implementation of ELo-Rainbow as a part of our paper **Does Self-supervised Learning Really Improve Reinforcement Learning from Pixels?** ([openreview](https://openreview.net/forum?id=fVslVNBfjd8), [arxiv](https://arxiv.org/abs/2206.05266)) at NeurIPS 2022.
+
 Our implementation is based on [CURL](https://github.com/aravindsrinivas/curl_rainbow) by Aravind Srinivas.
 
 DMControl experiments were done in a separate codebase (Check [ELo-SAC](https://github.com/LostXine/elo-sac)). 
